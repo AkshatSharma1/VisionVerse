@@ -1,5 +1,5 @@
 [build]
-  command = 'python -m pip install -r requirements.txt && python app.py"
+  command = "python -m pip install -r requirements.txt && python app.py"
   publish = "C:\Users\aksha\ML\Major Project\VisionVerse.ai\app.py"
 
 [build.environment]
